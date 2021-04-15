@@ -1,0 +1,37 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.app {
+  height: 100vh;
+}
+
+button {
+  padding: 5px 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  display: flex;
+  height: 80%;
+}
+
+.page {
+  width: 80%;
+  height: 90%;
+  border: 2px solid black;
+  border-radius: 7px;
+}

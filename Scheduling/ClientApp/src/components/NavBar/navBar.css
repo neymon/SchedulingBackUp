@@ -1,0 +1,28 @@
+nav {
+	margin: 0 20px;
+}
+
+nav ul {
+	list-style: none;
+}
+
+nav ul li{
+	margin: 10px 0;
+}
+
+nav ul li a ,
+a:visited,
+a:hover {
+	color: black !important;
+	text-decoration: none;
+}
+
+a {
+	height: 30px;
+	width: 160px;
+	display: flex;
+	align-items: center;
+	padding-left: 10px;
+	border-radius: 5px;
+	border: 2px solid black;
+}
